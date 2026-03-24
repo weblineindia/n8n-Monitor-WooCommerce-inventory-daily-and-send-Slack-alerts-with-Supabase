@@ -1,0 +1,1 @@
+# n8n-Monitor-WooCommerce-inventory-daily-and-send-Slack-alerts-with-Supabase
